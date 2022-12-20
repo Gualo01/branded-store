@@ -1,6 +1,6 @@
 {
   "homepage": "https://JotavDev.github.io/proyecto-javier-aguirre-34815",
-  "name": "proyecto-javier-aguirre-34815",
+  "name": "pukem",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,5 +43,16 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
+  },
+  "description": "tienda",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gualo01/branded-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gualo01/branded-store/issues"
   }
 }
